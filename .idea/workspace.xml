@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ca17521-a7b5-4494-855b-48e87d8dee88" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vVQ2sgsFYkt29IXDpSvGxt1Ku4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kuralbaydinaicloud.com/Desktop/final_redux_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/actions" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca17521-a7b5-4494-855b-48e87d8dee88" name="Changes" comment="" />
+      <created>1744227557421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744227557421</updated>
+      <workItem from="1744227558937" duration="576000" />
+      <workItem from="1744267744676" duration="946000" />
+      <workItem from="1744268711103" duration="6766000" />
+      <workItem from="1744275967122" duration="10368000" />
+      <workItem from="1744310476359" duration="2989000" />
+      <workItem from="1744348555050" duration="6162000" />
+      <workItem from="1745560509149" duration="3572000" />
+      <workItem from="1745565607016" duration="598000" />
+      <workItem from="1745673635567" duration="3117000" />
+      <workItem from="1745776280392" duration="4000" />
+      <workItem from="1745863045021" duration="314000" />
+      <workItem from="1745864682899" duration="4432000" />
+      <workItem from="1745921357485" duration="3000" />
+      <workItem from="1746107039862" duration="7807000" />
+      <workItem from="1746156882831" duration="7000" />
+      <workItem from="1746165475303" duration="1451000" />
+      <workItem from="1746525973954" duration="2899000" />
+      <workItem from="1746545276366" duration="9616000" />
+      <workItem from="1746689546919" duration="10829000" />
+      <workItem from="1747377981155" duration="8324000" />
+      <workItem from="1747588065925" duration="11044000" />
+      <workItem from="1747648274828" duration="8640000" />
+      <workItem from="1747671240229" duration="5584000" />
+      <workItem from="1747754841714" duration="6654000" />
+      <workItem from="1747819594006" duration="11060000" />
+      <workItem from="1747902386271" duration="8844000" />
+      <workItem from="1747943098231" duration="598000" />
+      <workItem from="1747993705008" duration="609000" />
+      <workItem from="1748013061571" duration="2442000" />
+      <workItem from="1748081291911" duration="598000" />
+      <workItem from="1748257656904" duration="8081000" />
+      <workItem from="1748423321978" duration="15476000" />
+      <workItem from="1748534017265" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

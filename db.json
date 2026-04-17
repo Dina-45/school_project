@@ -1,0 +1,817 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@school",
+      "password": "$2b$10$GhanmUy0c/Y4Y5fF3zHcdOtzegyY.DijZojGj7UiO.4eCtFcBGvn.",
+      "role": "admin",
+      "classId": null,
+      "avatar": "/Uploads/1747760132259.jpeg",
+      "isBanned": false,
+      "id": "1"
+    },
+    {
+      "name": "teacher",
+      "email": "teacher@school",
+      "password": "$2b$10$0o8knAitGaQVkzNcHwphG.xzDQP.VVW0Wtz1lWZhZQgsBQettvDNW",
+      "role": "teacher",
+      "classId": null,
+      "avatar": "/Uploads/1747762660745.jpeg",
+      "isBanned": true,
+      "id": "3"
+    },
+    {
+      "name": "teacher2",
+      "email": "teacher2@school",
+      "password": "$2b$10$9828TYw.FhsiXvaj0IGeoe5XPqvpU51DUvXd5azTlG/h/iWMdTbM6",
+      "role": "teacher",
+      "classId": null,
+      "avatar": "/Uploads/1747830748489.jpeg",
+      "isBanned": false,
+      "id": "4"
+    },
+    {
+      "name": "teacher3",
+      "email": "teacher3@school",
+      "password": "$2b$10$7yuv78IGXe4U4RFxbvp4V.sp1QdhUwk3FaggFnDj94uDMnpAW6Yme",
+      "role": "teacher",
+      "classId": null,
+      "avatar": "/Uploads/1747831484335.jpeg",
+      "isBanned": false,
+      "id": "5"
+    },
+    {
+      "name": "admin",
+      "email": "admin2@school",
+      "password": "$2b$10$mf9/xnaw8LO4.w31wYte4e6H7TlxJorhZGjuUA9Dhz0809464ajgm",
+      "role": "admin",
+      "classId": null,
+      "avatar": null,
+      "isBanned": false,
+      "id": "8"
+    },
+    {
+      "id": "004a",
+      "name": "Dina",
+      "email": "student1@school",
+      "password": "$2b$10$zByAa3XVVq4R/RHSxVTtOe6bm7udwhHq.hyCaeFicmVj0hdeHkOOm",
+      "role": "student",
+      "classId": 1,
+      "avatar": "/uploads/1748433810936.jpeg",
+      "isBanned": false
+    },
+    {
+      "id": "666e",
+      "name": "Aya",
+      "email": "student2@school",
+      "password": "$2b$10$5pERc89neWOHQCgGsOKgF.y5ePx9MJHYwb/ErCUywx4.4rpuU215e",
+      "role": "student",
+      "classId": 1,
+      "avatar": "/uploads/1748437050350.jpeg",
+      "isBanned": false
+    },
+    {
+      "id": "8bc9",
+      "name": "Aiganym",
+      "email": "student3@school",
+      "password": "$2b$10$nSEGPLGFMjzGnS9QwYc6eOtV9AiohQ0FTsWiT3ZwXCB2wJbiaepcq",
+      "role": "student",
+      "classId": 1,
+      "avatar": "/uploads/1748437674292.jpeg",
+      "isBanned": false
+    },
+    {
+      "id": "3720",
+      "name": "Asem",
+      "email": "student5@school",
+      "password": "$2b$10$zclXcVPOYPwFi.9ojfVPluGDTgCys2fBwXYn3sIUD.R8ftHfZXD4y",
+      "role": "student",
+      "classId": 2,
+      "avatar": "/uploads/1748438385028.jpeg",
+      "isBanned": false
+    },
+    {
+      "id": "957f",
+      "name": "Dina",
+      "email": "kuralbay.dina@narxoz.kz",
+      "password": "$2b$10$flzsgvXtCoCgYZivkC2ilewDHsx11Qt./T1ME4n1Fa/8kKnbjiYQS",
+      "role": "student",
+      "classId": 1,
+      "avatar": null,
+      "isBanned": false
+    },
+    {
+      "id": "4bd3",
+      "name": "Aya",
+      "email": "aya@df",
+      "password": "$2b$10$yY4PhHAM731JUwgWC0JAFuOiXDV5hWgrVUWmXtfG87UxYrTzmAt7C",
+      "role": "student",
+      "classId": 1,
+      "avatar": null,
+      "isBanned": false
+    },
+    {
+      "id": "e06c",
+      "name": "Геометрия",
+      "email": "as@as",
+      "password": "$2b$10$HBoFjWZhd9QIIqbAeOXN7eZAPkVJHenSEkHzPHrC8onsFNOOZPIwy",
+      "role": "teacher",
+      "classId": null,
+      "avatar": null,
+      "isBanned": false
+    },
+    {
+      "id": "8a1b",
+      "name": "Dina",
+      "email": "qw@de",
+      "password": "$2b$10$dcaxfyXH4oic7VMl.Jvla.xh9KjDtuqzBZbwrMDVJLCnVoiT17AdO",
+      "role": "student",
+      "classId": 1,
+      "avatar": null,
+      "isBanned": false
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": "9А"
+    },
+    {
+      "id": "2",
+      "name": "9Б"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "e58f",
+      "name": "Геометрия"
+    },
+    {
+      "id": "74b2",
+      "name": "Биология"
+    },
+    {
+      "id": "9a2d",
+      "name": "Алгебра"
+    },
+    {
+      "id": "35a4",
+      "name": "Информатика"
+    },
+    {
+      "id": "4c3c",
+      "name": "География"
+    },
+    {
+      "id": "fdd1",
+      "name": "sdfgnm"
+    }
+  ],
+  "teacher_subjects": [
+    {
+      "id": "e43f",
+      "teacherId": "4",
+      "subjectId": "e58f"
+    },
+    {
+      "id": "2473",
+      "teacherId": "4",
+      "subjectId": "74b2"
+    },
+    {
+      "id": "ea4e",
+      "teacherId": "5",
+      "subjectId": "9a2d"
+    },
+    {
+      "id": "69d9",
+      "teacherId": "5",
+      "subjectId": "35a4"
+    },
+    {
+      "id": "f907",
+      "teacherId": "4",
+      "subjectId": "4c3c"
+    },
+    {
+      "id": "ed78",
+      "teacherId": "e06c",
+      "subjectId": "fdd1"
+    }
+  ],
+  "courses": [
+    {
+      "id": "caac",
+      "name": "Геометрия",
+      "subjectId": "e58f",
+      "teacherId": "4",
+      "classId": "1",
+      "deadline": "2025-06-01"
+    },
+    {
+      "id": "f290",
+      "name": "Биология",
+      "subjectId": "74b2",
+      "teacherId": "4",
+      "classId": "1",
+      "deadline": "2025-06-08"
+    },
+    {
+      "id": "3f82",
+      "name": "Алгебра",
+      "subjectId": "9a2d",
+      "teacherId": "5",
+      "classId": "2",
+      "deadline": "2025-06-08"
+    },
+    {
+      "id": "088d",
+      "name": "Информатика",
+      "subjectId": "35a4",
+      "teacherId": "5",
+      "classId": "2",
+      "deadline": "2025-06-08"
+    },
+    {
+      "id": "d166",
+      "name": "География",
+      "subjectId": "4c3c",
+      "teacherId": "4",
+      "classId": "1",
+      "deadline": "2025-05-30"
+    },
+    {
+      "id": "2aa7",
+      "name": "sdfgnm",
+      "subjectId": "fdd1",
+      "teacherId": "e06c",
+      "classId": "1",
+      "deadline": "2050-12-12"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "3200",
+      "studentId": "004a",
+      "courseId": "caac"
+    },
+    {
+      "id": "6155",
+      "studentId": "004a",
+      "courseId": "f290"
+    },
+    {
+      "id": "d9a6",
+      "studentId": "666e",
+      "courseId": "caac"
+    },
+    {
+      "id": "7203",
+      "studentId": "666e",
+      "courseId": "f290"
+    },
+    {
+      "id": "951d",
+      "studentId": "8bc9",
+      "courseId": "f290"
+    },
+    {
+      "id": "1d1b",
+      "studentId": "8bc9",
+      "courseId": "caac"
+    },
+    {
+      "id": "516a",
+      "studentId": "3720",
+      "courseId": "3f82"
+    },
+    {
+      "id": "bed8",
+      "studentId": "3720",
+      "courseId": "088d"
+    },
+    {
+      "id": "5874",
+      "studentId": "8bc9",
+      "courseId": "d166"
+    },
+    {
+      "id": "4b9c",
+      "studentId": "8a1b",
+      "courseId": "2aa7"
+    }
+  ],
+  "tests": [
+    {
+      "id": "7e5b",
+      "title": "Гео тест",
+      "courseId": "caac",
+      "duration": 5,
+      "deadline": "2025-05-31",
+      "questions": [
+        {
+          "text": "12+3",
+          "options": [
+            "12",
+            "13",
+            "15"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "3e45",
+      "title": "Био тест",
+      "courseId": "f290",
+      "duration": 5,
+      "deadline": "2025-06-01",
+      "questions": [
+        {
+          "text": "Что является основной структурной единицей организма? ",
+          "options": [
+            " Клетка",
+            "Орган",
+            "Ткань"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Какой орган отвечает за дыхание у человека? ",
+          "options": [
+            "Сердце",
+            "Лёгкие",
+            "Печень"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "f2fe",
+      "title": "Алгебра тест",
+      "courseId": "3f82",
+      "duration": 5,
+      "deadline": "2025-05-31",
+      "questions": [
+        {
+          "text": "2x + 4 = 10  ",
+          "options": [
+            "x = 6",
+            "x = 2",
+            "x = 3"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": " Какой график соответствует функции y = x²?",
+          "options": [
+            " Прямая линия",
+            " Парабола",
+            "Окружность"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "d640",
+      "title": "Инфо тест",
+      "courseId": "088d",
+      "duration": 30,
+      "deadline": "2025-06-01",
+      "questions": [
+        {
+          "text": "Что такое интернет? ",
+          "options": [
+            " Всемирная сеть, соединяющая компьютеры",
+            " Электронная почта ",
+            "Компьютерная игра"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "5602",
+      "title": "География тест",
+      "courseId": "d166",
+      "duration": 10,
+      "deadline": "2025-05-30",
+      "questions": [
+        {
+          "text": "Как называется самая большая по площади страна в мире?",
+          "options": [
+            "Канада",
+            "США",
+            "Россия"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Что показывает компас?",
+          "options": [
+            "Температуру воздуха",
+            "Стороны света",
+            "Высоту над уровнем моря"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "3543",
+      "title": "dfgh",
+      "courseId": "2aa7",
+      "duration": 30,
+      "deadline": "2026-09-30",
+      "questions": [
+        {
+          "text": "dfbn",
+          "options": [
+            "dfb",
+            "vb",
+            "dfgb"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ],
+  "grades": [
+    {
+      "id": "890d",
+      "studentId": "004a",
+      "courseId": "caac",
+      "testId": "7e5b",
+      "score": "100.00",
+      "createdAt": "2025-05-28T12:50:37.344Z"
+    },
+    {
+      "id": "aa4a",
+      "studentId": "004a",
+      "courseId": "f290",
+      "testId": "3e45",
+      "score": "100.00",
+      "createdAt": "2025-05-28T12:56:25.885Z"
+    },
+    {
+      "id": "52f9",
+      "studentId": "666e",
+      "courseId": "caac",
+      "testId": "7e5b",
+      "score": "0.00",
+      "createdAt": "2025-05-28T12:58:13.517Z"
+    },
+    {
+      "id": "d12e",
+      "studentId": "666e",
+      "courseId": "f290",
+      "testId": "3e45",
+      "score": "50.00",
+      "createdAt": "2025-05-28T12:58:22.350Z"
+    },
+    {
+      "id": "d497",
+      "studentId": "8bc9",
+      "courseId": "f290",
+      "testId": "3e45",
+      "score": "50.00",
+      "createdAt": "2025-05-28T13:08:32.836Z"
+    },
+    {
+      "id": "dbaa",
+      "studentId": "8bc9",
+      "courseId": "caac",
+      "testId": "7e5b",
+      "score": "100.00",
+      "createdAt": "2025-05-28T13:09:02.072Z"
+    },
+    {
+      "id": "9d29",
+      "studentId": "8bc9",
+      "courseId": "f290",
+      "testId": "3e45",
+      "score": "100.00",
+      "createdAt": "2025-05-28T13:11:21.516Z"
+    },
+    {
+      "id": "3e1e",
+      "studentId": "3720",
+      "courseId": "3f82",
+      "testId": "f2fe",
+      "score": "100.00",
+      "createdAt": "2025-05-28T13:24:49.392Z"
+    },
+    {
+      "id": "a80c",
+      "studentId": "3720",
+      "courseId": "088d",
+      "testId": "d640",
+      "score": "100.00",
+      "createdAt": "2025-05-28T13:24:55.526Z"
+    },
+    {
+      "id": "9f07",
+      "studentId": "3720",
+      "courseId": "3f82",
+      "testId": "f2fe",
+      "score": "100.00",
+      "createdAt": "2025-05-28T13:25:10.208Z"
+    },
+    {
+      "id": "0b34",
+      "studentId": "3720",
+      "courseId": "088d",
+      "testId": "d640",
+      "score": "0.00",
+      "createdAt": "2025-05-28T13:25:16.441Z"
+    },
+    {
+      "id": "6d9b",
+      "studentId": "8bc9",
+      "courseId": "d166",
+      "testId": "5602",
+      "score": "100.00",
+      "createdAt": "2025-05-29T05:02:13.913Z"
+    }
+  ],
+  "files": [
+    {
+      "id": "1750",
+      "courseId": "caac",
+      "filePath": "/uploads/1748436556599.pdf",
+      "fileName": "1748013540.pdf"
+    },
+    {
+      "id": "54c4",
+      "courseId": "f290",
+      "filePath": "/uploads/1748436728006.pdf",
+      "fileName": "KAOS Final Layout.pdf"
+    },
+    {
+      "id": "f241",
+      "courseId": "3f82",
+      "filePath": "/uploads/1748438459751.pdf",
+      "fileName": "Project Report-BackEnd_F.pdf"
+    },
+    {
+      "id": "fb9c",
+      "courseId": "088d",
+      "filePath": "/uploads/1748438488017.pdf",
+      "fileName": "KAOS Final Layout.pdf"
+    },
+    {
+      "id": "ff84",
+      "courseId": "d166",
+      "filePath": "/uploads/1748494730255.pdf",
+      "fileName": "KAOS Final Layout.pdf"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "27b6",
+      "userId": "4",
+      "message": "Тест \"Гео тест\" добавлен для курса \"Геометрия\"!",
+      "createdAt": "2025-05-28T12:50:04.730Z"
+    },
+    {
+      "id": "573a",
+      "userId": "004a",
+      "message": "Записан на Геометрия!",
+      "createdAt": "2025-05-28T12:50:32.867Z"
+    },
+    {
+      "id": "c9df",
+      "userId": "4",
+      "message": "Тест \"Био тест\" добавлен для курса \"Биология\"!",
+      "createdAt": "2025-05-28T12:55:01.869Z"
+    },
+    {
+      "id": "055c",
+      "userId": "004a",
+      "message": "Записан на Биология!",
+      "createdAt": "2025-05-28T12:55:39.520Z"
+    },
+    {
+      "id": "96c8",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Биология\" от студента Dina: 👍👍",
+      "createdAt": "2025-05-28T12:56:08.963Z"
+    },
+    {
+      "id": "1ba5",
+      "userId": "666e",
+      "message": "Записан на Геометрия!",
+      "createdAt": "2025-05-28T12:57:44.956Z"
+    },
+    {
+      "id": "ae7c",
+      "userId": "666e",
+      "message": "Записан на Биология!",
+      "createdAt": "2025-05-28T12:57:46.972Z"
+    },
+    {
+      "id": "39fa",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Геометрия\" от студента Aya:  👍👍👍👍",
+      "createdAt": "2025-05-28T12:58:00.942Z"
+    },
+    {
+      "id": "ff4e",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Биология\" от студента Aya: 👍👍👍👍👍👍👍👍👍👍",
+      "createdAt": "2025-05-28T12:58:01.573Z"
+    },
+    {
+      "id": "d38d",
+      "userId": "8bc9",
+      "message": "Записан на Биология!",
+      "createdAt": "2025-05-28T13:08:08.864Z"
+    },
+    {
+      "id": "5082",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Биология\" от студента Aiganym: 🙂🙂",
+      "createdAt": "2025-05-28T13:08:38.080Z"
+    },
+    {
+      "id": "8775",
+      "userId": "8bc9",
+      "message": "Записан на Геометрия!",
+      "createdAt": "2025-05-28T13:08:43.967Z"
+    },
+    {
+      "id": "b6c4",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Геометрия\" от студента Aiganym: 👍👍",
+      "createdAt": "2025-05-28T13:11:06.679Z"
+    },
+    {
+      "id": "d83b",
+      "userId": "4",
+      "message": "Новый отзыв на курс \"Биология\" от студента Aiganym: 👍👍👍👍",
+      "createdAt": "2025-05-28T13:11:09.657Z"
+    },
+    {
+      "id": "5998",
+      "userId": "1",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.964Z"
+    },
+    {
+      "id": "a92c",
+      "userId": "3",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.969Z"
+    },
+    {
+      "id": "c6fc",
+      "userId": "4",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.974Z"
+    },
+    {
+      "id": "b2ae",
+      "userId": "5",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.980Z"
+    },
+    {
+      "id": "0541",
+      "userId": "8",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.984Z"
+    },
+    {
+      "id": "a9df",
+      "userId": "004a",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.988Z"
+    },
+    {
+      "id": "ebcf",
+      "userId": "666e",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.991Z"
+    },
+    {
+      "id": "0010",
+      "userId": "8bc9",
+      "message": "Новое объявление: ert - sdf",
+      "createdAt": "2025-05-28T13:12:12.994Z"
+    },
+    {
+      "id": "26c1",
+      "userId": "5",
+      "message": "Тест \"Алгебра тест\" добавлен для курса \"Алгебра\"!",
+      "createdAt": "2025-05-28T13:23:09.974Z"
+    },
+    {
+      "id": "679a",
+      "userId": "5",
+      "message": "Тест \"Инфо тест\" добавлен для курса \"Информатика\"!",
+      "createdAt": "2025-05-28T13:24:20.091Z"
+    },
+    {
+      "id": "8cab",
+      "userId": "3720",
+      "message": "Записан на Алгебра!",
+      "createdAt": "2025-05-28T13:24:38.614Z"
+    },
+    {
+      "id": "fb16",
+      "userId": "3720",
+      "message": "Записан на Информатика!",
+      "createdAt": "2025-05-28T13:24:41.596Z"
+    },
+    {
+      "id": "ceaf",
+      "userId": "4",
+      "message": "Тест \"География тест\" добавлен для курса \"География\"!",
+      "createdAt": "2025-05-29T05:00:23.628Z"
+    },
+    {
+      "id": "5be0",
+      "userId": "8bc9",
+      "message": "Записан на География!",
+      "createdAt": "2025-05-29T05:01:58.354Z"
+    },
+    {
+      "id": "7b87",
+      "userId": "8a1b",
+      "message": "Записан на sdfgnm!",
+      "createdAt": "2026-04-17T13:16:04.117Z"
+    },
+    {
+      "id": "f651",
+      "userId": "e06c",
+      "message": "Тест \"dfgh\" добавлен для курса \"sdfgnm\"!",
+      "createdAt": "2026-04-17T13:18:07.505Z"
+    },
+    {
+      "id": "d6d1",
+      "userId": "8a1b",
+      "message": "Новый тест \"dfgh\" добавлен для курса \"sdfgnm\". Дедлайн: 2026-09-30",
+      "createdAt": "2026-04-17T13:18:07.512Z"
+    }
+  ],
+  "reviews": [
+    {
+      "courseId": 1,
+      "studentId": 2,
+      "message": "👍👍👍",
+      "createdAt": "2025-05-21T12:56:18.549Z",
+      "id": "1"
+    },
+    {
+      "courseId": 6,
+      "studentId": 2,
+      "message": "👍👍👍",
+      "createdAt": "2025-05-21T12:56:21.632Z",
+      "id": "2"
+    },
+    {
+      "courseId": 4,
+      "studentId": 6,
+      "message": "🙂🙂",
+      "createdAt": "2025-05-21T12:58:29.580Z",
+      "id": "3"
+    },
+    {
+      "courseId": 6,
+      "studentId": 7,
+      "message": "🙀🙀",
+      "createdAt": "2025-05-21T13:07:54.455Z",
+      "id": "4"
+    },
+    {
+      "id": "f507",
+      "courseId": "caac",
+      "studentId": "8bc9",
+      "message": "👍👍",
+      "createdAt": "2025-05-28T13:11:06.667Z"
+    },
+    {
+      "id": "8c38",
+      "courseId": "f290",
+      "studentId": "8bc9",
+      "message": "👍👍👍👍",
+      "createdAt": "2025-05-28T13:11:09.651Z"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Жақында демалыс!",
+      "message": "Баршаңызға жақсы демалыс тілейміз!🎉🎊",
+      "createdAt": "2025-05-21T13:10:33.796Z",
+      "id": "1"
+    },
+    {
+      "id": "0d8a",
+      "title": "ert",
+      "message": "sdf",
+      "createdAt": "2025-05-28T13:12:12.952Z"
+    }
+  ]
+}
